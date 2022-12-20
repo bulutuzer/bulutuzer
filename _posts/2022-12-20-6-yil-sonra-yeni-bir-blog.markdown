@@ -11,7 +11,7 @@ Blog heyecanım 2016 ya da 2018 yılına kadar devam etti ama bu yıllarda iste�
 
 ### Neredeydim?
 
-Son paylaştığım post, tamamen bulunduğum yıl ve yaptıklarım ile ilgili kişisel bir yazıydı. O sıralar dirtjump/downhill sporlarına olan ilgim daha da artmıştı. Ben de bu spora olan kabiliyetimi ve mesleki kariyerimi ilerlettim. Bolca sakatlık, eğlence, aksiyon derken, mesleki kariyerimi, yurt içi ve yurt dışı projelerde sürdürdüm. Fakat bir süre sonra spor hayatıma, iş yoğunluğundan dolayı daha az vakit ayırmaya başladım. Bir süre sonra kendimi, e-ticaret uygulamaları ve web sayfalarından kurtarıp daha kompleks ürünler ile birlikte start-up projerine dahil ettim. :D
+Son paylaştığım post, tamamen bulunduğum yıl ve yaptıklarım ile ilgili kişisel bir yazıydı. O sıralar dirtjump/downhill sporlarına olan ilgim daha da artmıştı. Ben de bu spora olan kabiliyetimi ve mesleki kariyerimi ilerlettim. Bolca sakatlık, eğlence, aksiyon derken, mesleki kariyerimi, yurt içi ve yurt dışı projelerde sürdürdüm. Fakat bir süre sonra spor hayatıma, iş yoğunluğundan dolayı daha az vakit ayırmaya başladım. Bir süre sonra kendimi, e-ticaret uygulamaları ve web sayfalarından kurtarıp daha kompleks ürünler ile birlikte start-up propjelerine dahil ettim.
 
 ### Ne yapacaksın? 'Todo'
 
