@@ -7,7 +7,7 @@ image: "/images/posts/post-1.jpg"
 
 Tam olarak hatırlamamak ile birlikte, 2012 yılında www.bulutuzer.com isimli blog sayfamı açtım. Çok basitti ve paylaştığım ilk post "Merhaba Dünya" idi. Ve artık o içerikler gitti, alınan yedekler kayıp. :')
 
-Blog heyecanım 2016 ya da 2018 yılına kadar devam etti ama bu yıllarda isteğim azalmıştı. Ve sonrasında tamamı ile yazmayı bıraktım. Bir süredir tekrar mı açsam, podcast mi çeksem yoksa Medium'da mı yazsam, diye düşünmeye başladım. Ve kendimi tekrardan, GitHub üzerinde ilk blog postumu yazarken buldum.
+Blog heyecanım 2016 ya da 2018 yılına kadar devam etti ama bu yıllarda isteğim azalmıştı. Ve sonrasında tamamı ile yazmayı bıraktım. Bir süredir tekrar mı açsam, podcast mi çeksem yoksa Medium'da mı yazsam, diye düşünmeye başladım. Ve kendimi tekrardan, GitHub üzerinde Jekyll kurup, ilk blog postumu yazarken buldum.
 
 ### Neredeydim?
 
