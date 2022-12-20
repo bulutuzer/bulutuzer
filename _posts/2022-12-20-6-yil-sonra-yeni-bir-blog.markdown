@@ -17,4 +17,4 @@ Son paylaştığım post, tamamen bulunduğum yıl ve yaptıklarım ile ilgili k
 
 Blog yazıları ile birlikte podcast yayınları yapacağım. Podcast yayınlarımın bazılarında konu ile ilgili misafirlerim, bazıları ise baş başa olacağız. Paylaşacağım podcast ve yazılar genel olarak teknik, sektör , hobi ve arada gündelik yazıları kapsayacak.
 
-Ayrıca içime sinecek bir tema ile birlikte mevcut giriş içeriğini toparlayacağım. :D
+Ayrıca blog sayfasında, içime sinecek bir tema hazırlayıp, mevcut giriş içeriğini toparlayacağım.
