@@ -15,6 +15,6 @@ Son paylaştığım post, tamamen bulunduğum yıl ve yaptıklarım ile ilgili k
 
 ### Ne yapacaksın? 'Todo'
 
-Blog yazıları ile birlikte podcast yayınları yapacağım. Bazılarında misafirlerim, bazılarında ise tek çekeceğim yayınlar olacak. Paylaşacağım podcast ve yazılar genel olarak teknik, sektör , hobi ve arada gündelik yazıları kapsayacak.
+Blog yazıları ile birlikte podcast yayınları yapacağım. Podcast yayınlarımın bazılarında konu ile ilgili misafirlerim, bazıları ise baş başa olacağız. Paylaşacağım podcast ve yazılar genel olarak teknik, sektör , hobi ve arada gündelik yazıları kapsayacak.
 
 Ayrıca içime sinecek bir tema ile birlikte mevcut giriş içeriğini toparlayacağım. :D
