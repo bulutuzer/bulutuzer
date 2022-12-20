@@ -9,7 +9,8 @@
 title:       Bulut
 email:       'bulutuzer@gmail.com'
 description: ''
-baseurl:     / # The subpath of your site, e.g. /blog
+baseurl:     '' # The subpath of your site, e.g. /blog
+url:         'https://bulutuzer.com/' # The base hostname & protocol for your site
 twitter:     'https://twitter.com/bulutuzer/'
 github:      'https://github.com/bulutuzer/'
 instagram:   ''
