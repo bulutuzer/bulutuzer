@@ -19,11 +19,11 @@ Bir card hazırlarken ana kapsayıcı için ".card" isimlendirmesini kullanırı
 
 ### Elements
 
-Card block içerisinde barınan öğeler aslında bizim için elementleri oluşturuyor. Ve elementleri BEM'de "**" ile tanımlıyoruz. Örneğin ".card**aside", ".card**figure" ya da ".card**image" gibi öğeler bizim elementlerimizi oluşturmaktadır.
+Card block içerisinde barınan öğeler aslında bizim için elementleri oluşturuyor. Ve elementleri BEM'de '__' ile tanımlıyoruz. Örneğin '.card__aside', '.card__figure' ya da '.card__image' gibi öğeler bizim elementlerimizi oluşturmaktadır.
 
 ### Modifier
 
-Peki tanımladığımız block ve elementler için ek stil tanımlamaları yaptığımızı düşünelim. Bunlar ise BEM de modifiers anlamına geliyor. Örneğin ".card**image--radius" ya da ".card**image--large" gibi ek stil tanımlamaları bizim modifiers yapımızı oluşturmaktadır.
+Peki tanımladığımız block ve elementler için ek stil tanımlamaları yaptığımızı düşünelim. Bunlar ise BEM de modifiers anlamına geliyor. Örneğin '.card__image--radius' ya da '.card__image--large' gibi ek stil tanımlamaları bizim modifiers yapımızı oluşturmaktadır.
 
 # BEMIT
 
