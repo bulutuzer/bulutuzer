@@ -53,6 +53,7 @@ Dedik ki block her zaman bir kapsayıcıdır ve içinde bir çok öğe bulundurm
 </article>
 ```
 
+
 **o-** prefix bir object "nesne" tanımlarken kullanılmaktadır. Bu sınıflar, projede yeniden kullanılabilir sınıflardır. Bir nesnenin uygulamamızın birkaç yerinde kullanılabileceği ve belirli bir bağlamdan yoksun olabileceği anlamına gelir. Dolayısıyla hepimizin bildiği gibi bunları değiştirmek risklidir. Yani, o- prefix sayesinde, nesnenin kurallarını değiştireceksek, uygulamamızın birkaç bölümünün etkilenebileceğini bileceğiz. Kulağa ne kadar iyi geliyor değil mi? Ayrıca nesne örneğini responsive suffixes "sonekler" ile kullandım.
 
 ```html
@@ -63,6 +64,7 @@ Dedik ki block her zaman bir kapsayıcıdır ve içinde bir çok öğe bulundurm
 </article>
 ```
 
+
 **u-** prefix ise bizim yardımcı araçlarımızdır. Block, elements ve modifiers ile ilgisi yoktur. Aslında bu araçlar daha çok "!important" sahip genel sınıfları kapsıyorlar.
 
 ```html
@@ -72,6 +74,7 @@ Dedik ki block her zaman bir kapsayıcıdır ve içinde bir çok öğe bulundurm
   </div>
 </article>
 ```
+
 
 ### Responsive Suffixes
 
