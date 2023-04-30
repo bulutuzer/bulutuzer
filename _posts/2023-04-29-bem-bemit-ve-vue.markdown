@@ -35,7 +35,7 @@ Başka bir blog yazısında ITCSS inceleyeceğiz fakat BEMIT kısaca BEM + ITCSS
 
 ## BEMIT Prefiksler
 
-Dedik ki block her zaman bir kapsayıcıdır ve içinde bir çok öğe bulundurmaktadır. Ayrıca bir block aynı zamanda kendi başına bir bileşendir "component". Card örneği ile birlikte kullanırsak aşağıdaki yapıyı oluşturuyoruz.
+Dedik ki block her zaman bir kapsayıcıdır ve içinde bir çok öğe bulundurmaktadır. BEMIT de ise block aynı zamanda kendi başına bir bileşendir "component". Card örneği ile birlikte kullanırsak aşağıdaki yapıyı oluşturuyoruz.
 
 **c-** prefix ile card sıfını bir bileşen haline getirdim ve bu sayede yapacağım değişiklikler sadece bu bileşeni etkileyecek. Ayrıca bu yol ile bileşenin hangi katmanda ve hazırlanan hiyerarşide hangi dosyada olduğunu bulmamızı da kolaylaştırıyor.
 
@@ -53,7 +53,7 @@ Dedik ki block her zaman bir kapsayıcıdır ve içinde bir çok öğe bulundurm
 </article>
 ```
 
-**o-** prefix bir object "nesne" tanımlarken kullanılmaktadır. Bu sınıflar, projede yeniden kullanılabilir sınıflardır. Bir nesnenin uygulamamızın birkaç yerinde kullanılabileceği ve belirli bir bağlamdan yoksun olabileceği anlamına gelir. Dolayısıyla hepimizin bildiği gibi bunları değiştirmek risklidir. Yani, -o prefix sayesinde, nesnenin kurallarını değiştireceksek, uygulamamızın birkaç bölümünün etkilenebileceğini bileceğiz. Kulağa ne kadar iyi geliyor değil mi? Ayrıca nesne örneğini responsive suffixes "sonekler" ile kullandım.
+**o-** prefix bir object "nesne" tanımlarken kullanılmaktadır. Bu sınıflar, projede yeniden kullanılabilir sınıflardır. Bir nesnenin uygulamamızın birkaç yerinde kullanılabileceği ve belirli bir bağlamdan yoksun olabileceği anlamına gelir. Dolayısıyla hepimizin bildiği gibi bunları değiştirmek risklidir. Yani, o- prefix sayesinde, nesnenin kurallarını değiştireceksek, uygulamamızın birkaç bölümünün etkilenebileceğini bileceğiz. Kulağa ne kadar iyi geliyor değil mi? Ayrıca nesne örneğini responsive suffixes "sonekler" ile kullandım.
 
 ```html
 <article class="c-card">
