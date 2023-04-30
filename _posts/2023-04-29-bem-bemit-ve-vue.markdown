@@ -27,9 +27,9 @@ Peki tanımladığımız block ve elementler için ek stil tanımlamaları yapt�
 
 # BEMIT
 
-Peki, BEM variken BEMIT’e neden ihtiyaç duyuyoruz? Aslında bunun için önce ITCSS açıklamam daha doğru olacaktır. ITCSS bir metodolojidir ve Harry Roberts tarafından yapılmıştır.
+Peki, BEM variken BEMIT’e neden ihtiyaç duyuyoruz? BEMIT, [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/) ile birlikte oluşan bir metodolojidir ve Harry Roberts tarafından yapılmıştır.
 
-İşte BEMIT ise kısaca BEM + ITCSS’dir ve BEMIT, BEM’in yaratıcısı Harry Roberts’ın kendisinden geldi. Yani BEMIT sadece ITCSS hiyerarşisini, BEM’e eklemekten ibaretti. Yukarıdaki BEM örneğindeki gibi geliştiriciler sınıfları birbiriyle ilişkilendiriyorlar.
+Yani kısaca BEM + ITCSS’dir ve BEMIT, BEM’in yaratıcısı Harry Roberts’ın kendisinden geldi. Yani BEMIT sadece ITCSS hiyerarşisini, BEM’e eklemekten ibaretti. Yukarıdaki BEM örneğindeki gibi geliştiriciler sınıfları birbiriyle ilişkilendiriyorlar.
 
 Şimdi BEMIT, BEM gibi, projelerimizde sınıfları tanımlamak için bir adlandırma yöntemi ama prefix ile kullanıyoruz. Bu da bize bir sınıfın tam olarak ne tür işler yapabileceğini, onu nasıl kullanacağımızı ve tanımlı kuralları nerede bulacağımızı belirlememizi sağlıyor.
 
